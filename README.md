@@ -31,7 +31,7 @@ CUDA_VISIBLE_DEVICES=4 python train_evaluate.py --dataset_root <DATA_DIR> --batc
 
 ![Comparison2](https://github.com/tanjuju/image-harmonization/blob/main/Doc/Comparison2.PNG)
 
-![Comparison3](https://github.com/tanjuju/image-harmonization/blob/main/Doc/Comparison3.pdf)
+![Comparison3](https://github.com/tanjuju/image-harmonization/blob/main/Doc/Comparison3.PNG)
 
 ## Other Resources
 + [Awesome-Image-Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization)
