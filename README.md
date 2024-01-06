@@ -27,7 +27,11 @@ CUDA_VISIBLE_DEVICES=4 python train_evaluate.py --dataset_root <DATA_DIR> --batc
 CUDA_VISIBLE_DEVICES=4 python train_evaluate.py --dataset_root <DATA_DIR> --batch_size 16 --ngf 16 --input_nc 4 --name myDRC --num_threads 16 --is_train False --epoch 60
 ```
 ## Results
+![Comparison1](./Doc/Comparison1.png)
 
+![Comparison2](./Doc/Comparison2.png)
+
+![Comparison3](./Doc/Comparison3.pdf)
 
 ## Other Resources
 + [Awesome-Image-Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization)
